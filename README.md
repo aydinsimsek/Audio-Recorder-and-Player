@@ -3,4 +3,6 @@ This is an ARM Cortex-M4 based embedded systems project for capturing audio data
 
 MCP 4725 DAC module is operated using I2C Serial Communication Protocol. 
 
-Push buttons on the TM4C123 microcontroller is used for initiating recording and playing. Also, RGB LEDs indicate the operation status.  
+Push buttons on the TM4C123 microcontroller is used for initiating recording and playing. 
+
+RGB LEDs indicate the operation status.  
