@@ -1,5 +1,5 @@
 # About
-This is an ARM Cortex-M4 based embedded systems project for capturing audio data and playing it through a speaker. 
+This is an ARM Cortex-M4 based embedded systems project for capturing audio data and playing the recorded audio through a speaker. 
 
 # Features
 
