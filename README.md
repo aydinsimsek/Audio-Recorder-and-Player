@@ -3,7 +3,7 @@ This is an ARM Cortex-M4 based embedded systems project for capturing audio data
 
 # Features
 
-During playing the recorded audio, vocal effects can be created by varying the output frequency with a potentiometer. 
+During playing of the recorded audio, vocal effects can be created by varying the output frequency with a potentiometer. 
 
 Push buttons on the microcontroller is used to initiate recording and playing. 
 
